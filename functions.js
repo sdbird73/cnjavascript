@@ -48,22 +48,29 @@
 // cashWithdrawl (1234, 1000);
 
 
-const sub = (num1, num2) => {
-    console.log(num1 - num2);
+// const sub = (num1, num2) => {
+//     console.log(num1 - num2);
+// }
+// sub (5, 5);
+// sub (4, 2);
+// sub (453, 253);
+
+// const divide = (num1, num2) => {
+//     console.log(num1 / num2);
+// }
+// divide (5, 5);
+// divide (4, 2);
+// divide (450, 25);
+
+let coffeeIsGrinding = false;
+const pressGrindBeans = () => {
+    if (coffeeIsGrinding) {
+console.log("Stopping the grind");
+        coffeeIsGrinding = false;
+    } else {
+console.log("Grinding is about to begin");
+        coffeeIsGrinding = true;
+    }
 }
-sub (5, 5);
-sub (4, 2);
-sub (453, 253);
-
-const divide = (num1, num2) => {
-    console.log(num1 / num2);
-}
-divide (5, 5);
-divide (4, 2);
-divide (450, 25);
-
-
-
-
-
+pressGrindBeans();
 

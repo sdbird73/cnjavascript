@@ -20,13 +20,13 @@ let multiply = 2 * 5;
 // console.log (`My name is ${name}, my age is ${myAge} and my favourite colour is ${favouriteColour}`);
 
 
-let space1 = "X";
-let space2 = "O";
-let space3 = " ";
-let space4 = "X";
-let space5 = "X";
-let space6 = " ";
-let space7 = "O";
+// let space1 = "X";
+// let space2 = "O";
+// let space3 = " ";
+// let space4 = "X";
+// let space5 = "X";
+// let space6 = " ";
+// let space7 = "O";
 
 // console.log("   |   |   ");
 // console.log(` ${space1} | ${space2} | ${space3} `);

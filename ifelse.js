@@ -59,46 +59,47 @@
 // }
 
 
-let space1 = "X";
-let space2 = "X";
-let space3 = "X";
-let space4 = "X";
-let space5 = "X";
-let space6 = " ";
-let space7 = "O";
-let space8 = " ";
-let space9 = " ";
+// let space1 = "X";
+// let space2 = "X";
+// let space3 = "X";
+// let space4 = "X";
+// let space5 = "X";
+// let space6 = " ";
+// let space7 = "O";
+// let space8 = " ";
+// let space9 = " ";
 
-console.log("   |   |   ");
-console.log(` ${space1} | ${space2} | ${space3} `);
-console.log("   |   |   ");
-console.log("-----------");
-console.log("   |   |   ");
-console.log(` ${space4} | ${space5} | ${space6} `);
-console.log("   |   |   ");
-console.log("-----------");
-console.log("   |   |   ");
-console.log(` ${space7} | ${space8} | ${space9} `);
-console.log("   |   |   ");
+// console.log("   |   |   ");
+// console.log(` ${space1} | ${space2} | ${space3} `);
+// console.log("   |   |   ");
+// console.log("-----------");
+// console.log("   |   |   ");
+// console.log(` ${space4} | ${space5} | ${space6} `);
+// console.log("   |   |   ");
+// console.log("-----------");
+// console.log("   |   |   ");
+// console.log(` ${space7} | ${space8} | ${space9} `);
+// console.log("   |   |   ");
 
-if (space1 == "O" && space2 == "O" && space3 == "O") {
-    console.log("O has won");
-}
-else if (space1 == "X" && space2 == "X" && space3 == "X") {
-    console.log("X has won");
-}
+// if (space1 == "O" && space2 == "O" && space3 == "O") {
+//     console.log("O has won");
+// }
+// else if (space1 == "X" && space2 == "X" && space3 == "X") {
+//     console.log("X has won");
+// }
 
 
-let age = 59;
-let adult = "£10.95";
+// let age = 59;
+// let adult = "£10.95";
 
-if (age > 17 && age < 60) {
-    console.log(`Price of ticket is ${adult}`);
-}
-else if (age > 59) {
-    console.log("Price of ticket is £7.50");
-}
-else {
-    console.log("Price of ticket is £8");
-}
+// if (age > 17 && age < 60) {
+//     console.log(`Price of ticket is ${adult}`);
+// }
+// else if (age > 59) {
+//     console.log("Price of ticket is £7.50");
+// }
+// else {
+//     console.log("Price of ticket is £8");
+// }
+
 
